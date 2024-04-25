@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\AracPlakaApi\\CarManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|d:\\github\\aracplakaapi\\carmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|d:\\github\\aracplakaapi\\carmanagement\\migrations\\20240425215023_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|solutionrelative:migrations\\20240425215023_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|d:\\github\\aracplakaapi\\carmanagement\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|solutionrelative:data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|d:\\github\\aracplakaapi\\carmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|d:\\github\\aracplakaapi\\carmanagement\\controllers\\carscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|solutionrelative:controllers\\carscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|d:\\github\\aracplakaapi\\carmanagement\\data\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|solutionrelative:data\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|d:\\github\\aracplakaapi\\carmanagement\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|solutionrelative:models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240425215023_init.cs",
+              "DocumentMoniker": "D:\\Github\\AracPlakaApi\\CarManagement\\Migrations\\20240425215023_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240425215023_init.cs",
+              "ToolTip": "D:\\Github\\AracPlakaApi\\CarManagement\\Migrations\\20240425215023_init.cs",
+              "RelativeToolTip": "Migrations\\20240425215023_init.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:50:23.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\AracPlakaApi\\CarManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Github\\AracPlakaApi\\CarManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:35:46.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\AracPlakaApi\\CarManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Github\\AracPlakaApi\\CarManagement\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T21:34:13.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\Github\\AracPlakaApi\\CarManagement\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "Models\\Model.cs",
+              "ToolTip": "D:\\Github\\AracPlakaApi\\CarManagement\\Models\\Model.cs",
+              "RelativeToolTip": "Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:29:26.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Github\\AracPlakaApi\\CarManagement\\Data\\Car.cs",
+              "RelativeDocumentMoniker": "Data\\Car.cs",
+              "ToolTip": "D:\\Github\\AracPlakaApi\\CarManagement\\Data\\Car.cs",
+              "RelativeToolTip": "Data\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:29:19.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext .cs",
+              "DocumentMoniker": "D:\\Github\\AracPlakaApi\\CarManagement\\Data\\AppDbContext .cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext .cs",
+              "ToolTip": "D:\\Github\\AracPlakaApi\\CarManagement\\Data\\AppDbContext .cs",
+              "RelativeToolTip": "Data\\AppDbContext .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:29:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarsController .cs",
+              "DocumentMoniker": "D:\\Github\\AracPlakaApi\\CarManagement\\Controllers\\CarsController .cs",
+              "RelativeDocumentMoniker": "Controllers\\CarsController .cs",
+              "ToolTip": "D:\\Github\\AracPlakaApi\\CarManagement\\Controllers\\CarsController .cs",
+              "RelativeToolTip": "Controllers\\CarsController .cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:28:54.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
