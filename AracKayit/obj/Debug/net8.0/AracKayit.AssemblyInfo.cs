@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AracKayit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2152e09a64fa0911c7008e522b1cce0e059fd17c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+802cd03abaf762a11151e50b0e688d0182d06a22")]
 [assembly: System.Reflection.AssemblyProductAttribute("AracKayit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AracKayit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
