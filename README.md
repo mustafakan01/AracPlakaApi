@@ -14,6 +14,6 @@ API hakkında daha fazla bilgi için belgelere göz atabilirsiniz.
 # Başlangıç
 API'yi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
-Proje deposunu klonlayın: git clone https://github.com/kullaniciadi/proje.git
+Proje deposunu klonlayın: git clone https://github.com/mustafakan01/AracPlakaApi
 Proje klasörüne gidin: cd proje
 Projeyi çalıştırın: dotnet run
