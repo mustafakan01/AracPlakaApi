@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Github\\AracPlakaApi\\AracKayit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11C4F1DF-3F45-4BFA-8C16-B071E1DBE92A}|AracKayit.csproj|d:\\github\\aracplakaapi\\arackayit\\controllers\\carscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C4F1DF-3F45-4BFA-8C16-B071E1DBE92A}|AracKayit.csproj|solutionrelative:controllers\\carscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11C4F1DF-3F45-4BFA-8C16-B071E1DBE92A}|AracKayit.csproj|d:\\github\\aracplakaapi\\arackayit\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11C4F1DF-3F45-4BFA-8C16-B071E1DBE92A}|AracKayit.csproj|solutionrelative:data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CarsController .cs",
+              "DocumentMoniker": "D:\\Github\\AracPlakaApi\\AracKayit\\Controllers\\CarsController .cs",
+              "RelativeDocumentMoniker": "Controllers\\CarsController .cs",
+              "ToolTip": "D:\\Github\\AracPlakaApi\\AracKayit\\Controllers\\CarsController .cs",
+              "RelativeToolTip": "Controllers\\CarsController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:38:50.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Car.cs",
               "DocumentMoniker": "D:\\Github\\AracPlakaApi\\AracKayit\\Data\\Car.cs",
               "RelativeDocumentMoniker": "Data\\Car.cs",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "Data\\Car.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T20:34:14.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T20:34:14.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext .cs",
               "DocumentMoniker": "D:\\Github\\AracPlakaApi\\AracKayit\\Data\\AppDbContext .cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext .cs",
