@@ -1,3 +1,5 @@
+#AracPlakaApi
+
 Bu proje, araç kayıtlarını yönetmek için bir API sağlar. API, araçları listeleme, ekleme, güncelleme ve silme gibi temel işlemleri destekler.
 
 Kullanım
@@ -10,17 +12,8 @@ Araç Silme: /api/cars/{id} endpointi üzerinden belirli bir aracı silebilirsin
 API hakkında daha fazla bilgi için belgelere göz atabilirsiniz.
 
 Başlangıç
-API'yi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+API'yi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
-Proje deposunu klonlayın:
-bash
-Copy code
-git clone https://github.com/kullaniciadi/proje.git
-Proje klasörüne gidin:
-bash
-Copy code
-cd proje
-Projeyi çalıştırın:
-arduino
-Copy code
-dotnet run
+Proje deposunu klonlayın: git clone https://github.com/kullaniciadi/proje.git
+Proje klasörüne gidin: cd proje
+Projeyi çalıştırın: dotnet run
