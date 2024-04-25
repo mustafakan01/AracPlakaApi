@@ -1,8 +1,8 @@
-#AracPlakaApi
+# AracPlakaApi
 
 Bu proje, araç kayıtlarını yönetmek için bir API sağlar. API, araçları listeleme, ekleme, güncelleme ve silme gibi temel işlemleri destekler.
 
-Kullanım
+# Kullanım
 API'yi kullanmak için aşağıdaki temel işlemleri gerçekleştirebilirsiniz:
 
 Araçları Listeleme: /api/cars endpointi üzerinden tüm araçları listeleyebilirsiniz.
@@ -11,7 +11,7 @@ Araç Güncelleme: /api/cars/{id} endpointi üzerinden belirli bir aracı günce
 Araç Silme: /api/cars/{id} endpointi üzerinden belirli bir aracı silebilirsiniz.
 API hakkında daha fazla bilgi için belgelere göz atabilirsiniz.
 
-Başlangıç
+# Başlangıç
 API'yi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
 Proje deposunu klonlayın: git clone https://github.com/kullaniciadi/proje.git
