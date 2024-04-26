@@ -6,6 +6,7 @@
         public string PlateNumber { get; set; }
         public int ModelYear { get; set; }
         public DateTime InspectionDate { get; set; }
+        public string PermitImage { get; set; }
 
     }
 }
