@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Github\\AracPlakaApi\\CarManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\AracPlakaApi\\CarManagement\\Migrations\\20240426120650_AddPermitImageColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240426120650_AddPermitImageColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|d:\\github\\aracplakaapi\\carmanagement\\migrations\\20240426120650_addpermitimagecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|solutionrelative:migrations\\20240426120650_addpermitimagecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A8733FD-EB92-4835-A1C8-8863FD6CB3A5}|CarManagement.csproj|d:\\github\\aracplakaapi\\carmanagement\\migrations\\20240425215023_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Migrations\\20240426120650_AddPermitImageColumn.cs",
               "ToolTip": "D:\\Github\\AracPlakaApi\\CarManagement\\Migrations\\20240426120650_AddPermitImageColumn.cs",
               "RelativeToolTip": "Migrations\\20240426120650_AddPermitImageColumn.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T12:06:50.195Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Migrations\\20240425215023_init.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAADwvyUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:50:23.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:50:23.567Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:35:46.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:35:46.892Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-25T21:34:13.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:34:13.043Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Models\\Model.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:29:26.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:29:26.046Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Data\\Car.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:29:19.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:29:19.021Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Data\\AppDbContext .cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:29:13.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:29:13.344Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Controllers\\CarsController .cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:28:54.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:28:54.134Z"
             }
           ]
         }
