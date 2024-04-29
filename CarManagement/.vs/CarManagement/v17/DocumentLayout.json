@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "Migrations\\20240425215023_init.cs",
               "ToolTip": "D:\\Github\\AracPlakaApi\\CarManagement\\Migrations\\20240425215023_init.cs",
               "RelativeToolTip": "Migrations\\20240425215023_init.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAIwCUAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvyUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T21:50:23.567Z",
               "EditorCaption": ""
@@ -95,8 +95,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAUwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:35:46.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:35:46.892Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "Data\\Car.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:29:19.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:29:19.021Z"
             },
             {
               "$type": "Document",
